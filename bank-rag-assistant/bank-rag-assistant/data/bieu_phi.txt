@@ -1,0 +1,17 @@
+BIỂU PHÍ DỊCH VỤ (tham khảo, có thể thay đổi)
+
+1. Phí chuyển khoản
+- Chuyển khoản nội bộ cùng ngân hàng: miễn phí.
+- Chuyển khoản liên ngân hàng qua ứng dụng số: 0.02% số tiền chuyển, tối thiểu 11.000đ.
+- Chuyển khoản liên ngân hàng tại quầy: 0.05% số tiền chuyển, tối thiểu 22.000đ.
+
+2. Phí thẻ
+- Phí phát hành thẻ ghi nợ nội địa: miễn phí.
+- Phí thường niên thẻ ghi nợ: 50.000đ/năm.
+- Phí rút tiền ATM cùng hệ thống: miễn phí.
+- Phí rút tiền ATM ngoài hệ thống: 3.300đ/giao dịch.
+
+3. Phí dịch vụ ngân hàng số
+- Phí đăng ký dịch vụ ngân hàng số: miễn phí.
+- Phí duy trì dịch vụ: miễn phí.
+- Phí thông báo biến động số dư qua SMS: 11.000đ/tháng.
